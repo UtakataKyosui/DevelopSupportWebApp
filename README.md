@@ -1,3 +1,3 @@
-z# DevelopSupportWebApp
+# DevelopSupportWebApp
 Next.jsとMastraを組み合わせたローカルLLMを使った開発支援WebApp
 
